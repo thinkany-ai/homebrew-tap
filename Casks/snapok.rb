@@ -1,6 +1,6 @@
 cask "snapok" do
-  version "0.2.2"
-  sha256 "afc7a807fb90b4ec25309fcdb1ef9ee758cdf30ba6235e5646c8025ef00741b6"
+  version "0.2.3"
+  sha256 "133dad0fd715c19e19063009545d4ec752a6e8a3e0f5b6e262ea4f1134baccfd"
 
   url "https://cdn.snapok.app/Snapok-#{version}.zip"
   name "Snapok"
